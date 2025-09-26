@@ -1,3 +1,21 @@
+# Astrapay - Hiring Project Challenge: Product Developer
+Berikut adalah Project dari proses hiring Astrapay - Product Developer
+
+# Langkah untuk menjalankan project:
+1. Melakukan clone project
+2. Membuka project pada IDE
+3. Melakukan isntalasi dependency dengan menggunaakn perintah "mvn clean install"
+4. Menjalankan aplikasi menggunakan IDE
+
+# Berikut adalah screenshot
+![get note postman](https://github.com/user-attachments/assets/a64f2e0f-2a10-4401-aba9-bc5392d78b63)
+![delete note postman](https://github.com/user-attachments/assets/51913cfc-5cb2-41fd-867c-14c43141adf5)
+![add note postman](https://github.com/user-attachments/assets/df5e0722-9ae0-4679-940a-d96ce07fe366)
+![list kosong](https://github.com/user-attachments/assets/7c99d936-b6f9-484a-beaf-65aaa1e0d6d8)
+![6 notes](https://github.com/user-attachments/assets/e91959a0-8cde-459f-bc03-635aeb11751f)
+
+
+
 # Spring Boot Astrapay Base Project
 Berikut adalah Base Project untuk aplikasi Spring Boot, yang sesuai dengan konvensi yang digunakan pada Astrapay.
 
