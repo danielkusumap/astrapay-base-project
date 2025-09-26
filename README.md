@@ -7,7 +7,7 @@ Berikut adalah Project dari proses hiring Astrapay - Product Developer
 3. Melakukan isntalasi dependency dengan menggunaakn perintah "mvn clean install"
 4. Menjalankan aplikasi menggunakan IDE
 
-# Berikut adalah screenshot
+# Berikut adalah screenshot beberapa hasil
 ![get note postman](https://github.com/user-attachments/assets/a64f2e0f-2a10-4401-aba9-bc5392d78b63)
 ![delete note postman](https://github.com/user-attachments/assets/51913cfc-5cb2-41fd-867c-14c43141adf5)
 ![add note postman](https://github.com/user-attachments/assets/df5e0722-9ae0-4679-940a-d96ce07fe366)
