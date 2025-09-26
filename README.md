@@ -4,7 +4,7 @@ Berikut adalah Project dari proses hiring Astrapay - Product Developer
 # Langkah untuk menjalankan project:
 1. Melakukan clone project
 2. Membuka project pada IDE
-3. Melakukan isntalasi dependency dengan menggunaakn perintah "mvn clean install"
+3. Melakukan instalasi dependency dengan menggunaakn perintah "mvn clean install"
 4. Menjalankan aplikasi menggunakan IDE
 
 # Berikut adalah screenshot beberapa hasil
